@@ -1,4 +1,4 @@
-# HSG Coding Bot
+# ShiftLoggerHSG
 
 ## The Problem
 
@@ -107,3 +107,7 @@ If you want to run your own copy of this bot:
    upload it to any static host (e.g. your own domain, GitHub Pages, etc.) and
    update the `SUPABASE_URL` / `SUPABASE_KEY` in `website/script.js` to match your
    own Supabase project.
+
+---
+
+<sub><i>This README was drafted with the help of ChatGPT. A couple of code sections also used ChatGPT as a fallback (where I knew a faster approach existed but wasn't yet confident implementing it myself), these sections are marked inline by a comment.</i></sub>
