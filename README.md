@@ -30,12 +30,20 @@ all submitted reports.
 | Bot hosting            | [Railway](https://railway.app)                              |
 | Website / Dashboard    | Bootstrap 5, vanilla JS, [jsPDF](https://github.com/parallax/jsPDF) |
 
+
+## Try It Out — No Setup Needed
+
+For grading/testing purposes, you don't need to set anything up yourself — the bot
+and website are already hosted and ready to use. Just open Telegram and start
+chatting with the bot (see below), or visit the dashboard directly at
+[ykoros.de](https://ykoros.de).
+
 ## How to Use the Bot
 
-1. Open Telegram and search for **[@HSGCodingBot](https://t.me/HSGCodingBot)** (or go
-   directly to [t.me/HSGCodingBot](https://t.me/HSGCodingBot)).
-2. Send `/start` to see the welcome message.
-3. Send `/report` to fill out a full time report.
+1. Use your own Telegram Account or Create a new one. Then Open Telegram and search
+   for **[@HSGCodingBot](https://t.me/HSGCodingBot)** (or go directly to [t.me/HSGCodingBot](https://t.me/HSGCodingBot)).
+3. Send `/start` to see the welcome message.
+4. Send `/report` to fill out a full time report.
 
 ### Commands
 
